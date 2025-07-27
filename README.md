@@ -2,7 +2,7 @@
 <h1 align="center">𒐫 YUSUF&nbsp;TARIK&nbsp;YILDIRIM 𒐫</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=500&lines=Cybersecurity+enthusiast;Reverse+engineer;Always+learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=500&lines=root@kali:~%23+whoami;root@kali:~%23+id;root@kali:~%23+ls+-la;root@kali:~%23+Always+learning..." alt="Typing SVG" />
 </p>
 
 <!-- ASCII Art -->
