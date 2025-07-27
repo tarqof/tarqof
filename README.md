@@ -83,7 +83,7 @@
 
 <p align="left">
   <a href="https://github.com/tarqof/ipspoofer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=ipspoofer&theme=tokyonight" alt="Top Contributed Repo" />
+    <img src="https://github-repo-stats.vercel.app/api?username=tarqof&repository=ipspoofer&show_owner=false&theme=tokyonight" alt="ipspoofer Contribution Stats" />
   </a>
 </p>
 
@@ -92,7 +92,8 @@
 <p align="left">
   ![Grade: B](https://img.shields.io/badge/Grade-B-brightgreen)
 </p>
-### 🌐 Find Me
+
+🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
