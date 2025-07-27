@@ -55,32 +55,43 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tarqof&theme=tokyonight&show_icons=true&hide_border=true" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=tarqof&theme=tokyonight&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarqof&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=tarqof&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <a href="[https://github.com/tarqof/YOUR_REPO_NAME](https://github.com/tarqof/ipspoofer)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=ipspoofer&theme=tokyonight" alt="Top Contributed Repo" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarqof&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=tarqof&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="left">
+  <a href="https://github.com/tarqof/ipspoofer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=ipspoofer&theme=tokyonight" alt="Top Contributed Repo" />
+  </a>
+</p>
+
+<!-- Basit derecelendirme rozetini manuel ekleyebilirsin: -->
+
+<p align="left">
+  ![Grade: B](https://img.shields.io/badge/Grade-B-brightgreen)
+</p>
 ### 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
