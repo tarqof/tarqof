@@ -65,6 +65,22 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <a href="https://github.com/yusuftarik/REPO-ADI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuftarik&repo=REPO-ADI&theme=tokyonight" alt="Top Contributed Repo" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yusuftarik&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 ### 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
