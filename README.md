@@ -1,5 +1,5 @@
 <!-- 𒐫 YUSUF TARIK YILDIRIM – GitHub Profile README -->
-<h1 align="center">𒐫 &nbsp;TARIK 𒐫</h1>
+<h1 align="center">𒐫 &nbsp;TARIK&nbsp; 𒐫</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&width=800&lines=root@kali:~%23+whoami;root@kali:~%23+id;root@kali:~%23+ls+-la;root@kali:~%23+Always+learning...;root@kali:~%23+echo+%22hacking+the+planet%22" alt="Typing SVG" />
