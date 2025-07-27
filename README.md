@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=500&lines=Cybersecurity+enthusiast;Reverse+engineer;Always+learning..." alt="Typing SVG" />
 </p>
 
-<br>
-<br>
-<br>
 <!-- ASCII Art -->
 <pre align="center">
 ██████╗ ██╗   ██╗███████╗██╗   ██╗███████╗
