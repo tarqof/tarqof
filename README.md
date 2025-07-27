@@ -58,9 +58,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuftarik&theme=tokyonight&show_icons=true&hide_border=true" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=yusuftarik&theme=tokyonight&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuftarik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarqof&theme=tokyonight&show_icons=true&hide_border=true" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=tarqof&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarqof&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -68,8 +68,8 @@
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <a href="https://github.com/yusuftarik/REPO-ADI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yusuftarik&repo=REPO-ADI&theme=tokyonight" alt="Top Contributed Repo" />
+  <a href="https://github.com/tarqof/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Top Contributed Repo" />
   </a>
 </p>
 
@@ -78,7 +78,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yusuftarik&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tarqof&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ### 🌐 Find Me
