@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="[https://github.com/tarqof/YOUR_REPO_NAME](https://github.com/tarqof/ipspoofer)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=YOUR_REPO_NAME&theme=tokyonight" alt="Top Contributed Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tarqof&repo=ipspoofer&theme=tokyonight" alt="Top Contributed Repo" />
   </a>
 </p>
 
