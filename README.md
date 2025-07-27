@@ -87,11 +87,7 @@
   </a>
 </p>
 
-<!-- Basit derecelendirme rozetini manuel ekleyebilirsin: -->
-
-<p align="left">
-  ![Grade: B](https://img.shields.io/badge/Grade-B-brightgreen)
-</p>
+---
 
 🌐 Find Me
 
